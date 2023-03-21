@@ -1,0 +1,230 @@
+﻿{
+  "products": [
+    {
+      "id": 0,
+      "name":"Laptop ACER Nitro 5 ",
+      "image": "1.jpg",
+      "category": "mains",
+      "label":"Hot",
+      "price":"28.990.000đ",
+      "featured": true,
+      "description":"Acer Nitro 5 là một trong những sản phẩm nổi bật nhất của Acer và cả trên thị trường laptop trong phân khúc cùng tầm giá. Đem lại cấu hình hiệu năng cực kỳ mạnh mẽ cùng với vẻ ngoài cực kỳ bắt mắt."
+      },
+      {
+      "id": 1,
+      "name":"Laptop ACER Aspire 5",
+      "image": "2.jpg",
+      "category": "mains",
+      "label":"Hot",
+      "price":"17.699.000đ",
+      "featured": true,
+      "description":"Aspire 5 hiện đại với màn hình tràn viền, chỉ nhẹ 1.46kg và mỏng 17.95mm, cực kì thích hợp cho mọi hoạt động làm việc, học tập, giải trí ở bất cứ đâu."
+      },
+      {
+      "id": 2,
+      "name":"Điện thoại iPhone 12 64GB",
+      "image": "3.jpg",
+      "category": "appetizer",
+      "label":"",
+      "price":"23.490.000đ",
+      "featured": true,
+      "description":"iPhone 12 64GB là sản phẩm có hàng loạt tính năng bức phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ."
+      },
+      {
+      "id": 3,
+      "name":"Samsung Galaxy S21 Ultra 5G",
+      "image": "4.jpg",
+      "category": "",
+      "label":"",
+      "price":"30.990.000đ",
+      "featured": true,
+      "description":"Samsung Galaxy S21 Ultra 5G với hàng loạt sự nâng cấp và cải tiến không chỉ ngoại hình bên ngoài mà còn sức mạnh bên trong, hứa hẹn đáp ứng trọn vẹn nhu cầu ngày càng cao của người dùng."
+      },
+      {
+      "id": 4,
+      "name":"Xiaomi POCO X3 NFC",
+      "image": "1.jpg",
+      "category": "hot",
+      "label":"Hot",
+      "price":"6.590.000 đ",
+      "featured": true,
+      "description":"POCO X3 NFC mang theo nhiều tính năng hấp dẫn trên 1 chiếc điện thoại thông minh, cụm camera chất lượng, hiệu năng mạnh mẽ, dung lượng pin khủng cùng khả năng sạc nhanh vượt trội 33W"
+      }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "productId": 0,
+      "rating": 5,
+      "comment": "Ngon lành luôn,loa to ấm, màn hình bự,pin trâu, kính cường lực 5,tần số quét cao,camera chụp bao đẹp",
+      "author": "Tùng Nguyễn",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "productId": 0,
+      "rating": 5,
+      "comment": "Máy ok , chơi game mượt, tốc độ làm tươi 120hz cực kỳ nhạy và đẹp",
+      "author": "Em Phát",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "productId": 0,
+      "rating": 5,
+      "comment": "Hóng từ rất lâu và đặt gạch ngay khi có chương trình đặt trước. Thực sự không thể chê vào đâu được từ bề ngoài lẫn cái lõi bên trong. Màu vàng sang chảnh, nhiều ưu đãi hấp dẫn.",
+      "author": "Trần Ngọc Triều",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "productId": 0,
+      "rating": 4,
+      "comment": "Quyết định rước trong 1 nốt nhạc. Không đặt trước. Không nghiên cứu trước vì quá ưng. Màu vàng cực đẹp. Viền mạ vàng chống gỉ. Mọi thứ ok. Máy chạy mướt. Pin sạt nhanh. Ưng",
+      "author": "Trâm",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "productId": 1,
+      "rating": 5,
+      "comment": "Ngon lành luôn,loa to ấm, màn hình bự,pin trâu, kính cường lực 5,tần số quét cao,camera chụp bao đẹp",
+      "author": "Tùng Nguyễn",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "productId": 1,
+      "rating": 5,
+      "comment": "Máy ok , chơi game mượt, tốc độ làm tươi 120hz cực kỳ nhạy và đẹp",
+      "author": "Em Phát",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "productId": 1,
+      "rating": 5,
+      "comment": "Hóng từ rất lâu và đặt gạch ngay khi có chương trình đặt trước. Thực sự không thể chê vào đâu được từ bề ngoài lẫn cái lõi bên trong. Màu vàng sang chảnh, nhiều ưu đãi hấp dẫn.",
+      "author": "Trần Ngọc Triều",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "productId": 1,
+      "rating": 4,
+      "comment": "Quyết định rước trong 1 nốt nhạc. Không đặt trước. Không nghiên cứu trước vì quá ưng. Màu vàng cực đẹp. Viền mạ vàng chống gỉ. Mọi thứ ok. Máy chạy mướt. Pin sạt nhanh. Ưng",
+      "author": "Trâm",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "productId": 2,
+      "rating": 5,
+      "comment": "Ngon lành luôn,loa to ấm, màn hình bự,pin trâu, kính cường lực 5,tần số quét cao,camera chụp bao đẹp",
+      "author": "Tùng Nguyễn",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "productId": 2,
+      "rating": 5,
+      "comment": "Máy ok , chơi game mượt, tốc độ làm tươi 120hz cực kỳ nhạy và đẹp",
+      "author": "Em Phát",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "productId": 2,
+      "rating": 5,
+      "comment": "Hóng từ rất lâu và đặt gạch ngay khi có chương trình đặt trước. Thực sự không thể chê vào đâu được từ bề ngoài lẫn cái lõi bên trong. Màu vàng sang chảnh, nhiều ưu đãi hấp dẫn.",
+      "author": "Trần Ngọc Triều",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "productId": 2,
+      "rating": 4,
+      "comment": "Quyết định rước trong 1 nốt nhạc. Không đặt trước. Không nghiên cứu trước vì quá ưng. Màu vàng cực đẹp. Viền mạ vàng chống gỉ. Mọi thứ ok. Máy chạy mướt. Pin sạt nhanh. Ưng",
+      "author": "Trâm",
+      "date": "2013-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "productId": 3,
+      "rating": 5,
+      "comment": "Ngon lành luôn,loa to ấm, màn hình bự,pin trâu, kính cường lực 5,tần số quét cao,camera chụp bao đẹp",
+      "author": "Tùng Nguyễn",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "productId": 3,
+      "rating": 5,
+      "comment": "Máy ok , chơi game mượt, tốc độ làm tươi 120hz cực kỳ nhạy và đẹp",
+      "author": "Em Phát",
+      "date": "2014-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "productId": 3,
+      "rating": 5,
+      "comment": "Hóng từ rất lâu và đặt gạch ngay khi có chương trình đặt trước. Thực sự không thể chê vào đâu được từ bề ngoài lẫn cái lõi bên trong. Màu vàng sang chảnh, nhiều ưu đãi hấp dẫn.",
+      "author": "Trần Ngọc Triều",
+      "date": "2015-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "productId": 3,
+      "rating": 4,
+      "comment": "Quyết định rước trong 1 nốt nhạc. Không đặt trước. Không nghiên cứu trước vì quá ưng. Màu vàng cực đẹp. Viền mạ vàng chống gỉ. Mọi thứ ok. Máy chạy mướt. Pin sạt nhanh. Ưng",
+      "author": "Trâm",
+      "date": "2013-12-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Bán Chạy",
+      "image": "images/iphone-12.jpg",
+      "label": "New",
+      "price": "23.490.000đ",
+      "featured": true,
+      "description": "iPhone 12 64GB là sản phẩm có hàng loạt tính năng bức phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ."
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Lê Hồng Phúc",
+      "image": "images/phuc.jpg",
+      "designation": "Member",
+      "abbr": "Member",
+      "featured": false,
+      "description": "Member",
+      "mail": "phuc.lh2124@sinhvien.hoasen.edu.vn"
+    },
+    {
+      "id": 1,
+      "name": "Đào Nguyễn Trí Dũng",
+      "image": "images/dung.jpg",
+      "designation": "Member",
+      "abbr": "Member",
+      "featured": false,
+      "description": "Member",
+      "mail": "dung.dnt2156@sinhvien.hoasen.edu.vn"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
