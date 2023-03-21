@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name":"Laptop ACER Nitro 5 ",
-      "image": "1.jpg",
+      "image": "https://drive.google.com/file/d/1-o060wZaApHFfjqnBm5PKX4qC1e6I5gX/view?usp=sharing",
       "category": "mains",
       "label":"Hot",
       "price":"28.990.000đ",
@@ -13,7 +13,7 @@
       {
       "id": 1,
       "name":"Laptop ACER Aspire 5",
-      "image": "2.jpg",
+      "image": "https://drive.google.com/file/d/1-o060wZaApHFfjqnBm5PKX4qC1e6I5gX/view?usp=sharing",
       "category": "mains",
       "label":"Hot",
       "price":"17.699.000đ",
@@ -23,7 +23,7 @@
       {
       "id": 2,
       "name":"Điện thoại iPhone 12 64GB",
-      "image": "3.jpg",
+      "image": "https://drive.google.com/file/d/1-o060wZaApHFfjqnBm5PKX4qC1e6I5gX/view?usp=sharing",
       "category": "appetizer",
       "label":"",
       "price":"23.490.000đ",
@@ -33,7 +33,7 @@
       {
       "id": 3,
       "name":"Samsung Galaxy S21 Ultra 5G",
-      "image": "4.jpg",
+      "image": "https://drive.google.com/file/d/1-o060wZaApHFfjqnBm5PKX4qC1e6I5gX/view?usp=sharing",
       "category": "",
       "label":"",
       "price":"30.990.000đ",
@@ -43,7 +43,7 @@
       {
       "id": 4,
       "name":"Xiaomi POCO X3 NFC",
-      "image": "1.jpg",
+      "image": "https://drive.google.com/file/d/1-o060wZaApHFfjqnBm5PKX4qC1e6I5gX/view?usp=sharing",
       "category": "hot",
       "label":"Hot",
       "price":"6.590.000 đ",
